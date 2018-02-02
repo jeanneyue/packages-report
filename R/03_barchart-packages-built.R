@@ -1,3 +1,4 @@
+## update
 ## make a barchart from the frequency table in data/add-on-packages-freqtable.csv
 
 ## read that csv into a data frame, then ...
